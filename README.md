@@ -1,8 +1,8 @@
 ## Movie Recommendation System
-Welcome to our Movie Recommendation System repository! Here, we've built a tool that helps you discover new movies or TV shows similar to the ones you already love. Whether you're a cinephile or just looking for something to watch, our recommendation system has got you covered.
+Welcome to my Movie Recommendation System repository! Here, I've built a tool that helps you discover new movies or TV shows similar to the ones you already love. Whether you're a cinephile or just looking for something to watch, this recommendation system has got you covered.
 
 ## What does it do?
-This recommendation system analyzes a dataset of Netflix titles to suggest similar movies based on your selection. It uses a technique called cosine similarity to find movies with comparable themes, cast, and genres. So, if you enjoy a particular movie, our system can recommend others that you might also like!
+This recommendation system analyzes a dataset of Netflix titles to suggest similar movies based on your selection. It uses a technique called cosine similarity to find movies with comparable themes, cast, and genres. So, if you enjoy a particular movie, this system can recommend others that you might also like!
 
 ## Description
 This GitHub repository contains the source code for a Movie Recommendation System built using Python and various libraries such as Pandas, Scikit-learn, and Streamlit. The recommendation system analyzes a dataset of Netflix titles to suggest similar movies or TV shows based on user input.
