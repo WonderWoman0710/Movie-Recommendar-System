@@ -1,4 +1,3 @@
-# Movie-Recommendar-System
 ## Movie Recommendation System
 Welcome to our Movie Recommendation System repository! Here, we've built a tool that helps you discover new movies or TV shows similar to the ones you already love. Whether you're a cinephile or just looking for something to watch, our recommendation system has got you covered.
 
